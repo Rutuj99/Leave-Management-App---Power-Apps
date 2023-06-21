@@ -27,7 +27,8 @@ Leave-Management-App is a web application built using Power Apps, SharePoint, an
 
 ![Screenshot 2023-06-20 163953](https://github.com/Rutuj99/Leave-Management-App---Power-Apps/assets/55624994/b2e2f148-cc60-4474-bdf1-f45910ae5c45)
 
-
+# Live 
+- https://apps.powerapps.com/play/e/default-0a9788cc-0df2-45b2-857e-e6c3fa127f1d/a/0b58f46f-3f94-4d4b-9422-9012c36ceb65?tenantId=0a9788cc-0df2-45b2-857e-e6c3fa127f1d&source=portal
 # Setup and Configuration
 To set up the Leave-Management-App, follow these steps:
 
