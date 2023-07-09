@@ -10,6 +10,12 @@ Leave-Management-App is a web application built using Power Apps, SharePoint, an
 
 - Manager and HR Approval: Managers and HR personnel can access a dedicated section within the app to review and approve or deny leave requests. They have the ability to leave comments or provide feedback to the requesting employee.
 
+# Demo Video
+
+https://github.com/Rutuj99/Leave-Management-App---Power-Apps/assets/55624994/96522d76-ece4-4f63-99b8-851135ed5d69
+
+ideo
+
 # ScreenShots
 ![Screenshot 2023-06-20 163304](https://github.com/Rutuj99/Leave-Management-App---Power-Apps/assets/55624994/414ce207-3631-40bb-99aa-d119737fdbc4)
 ![Screenshot 2023-06-20 163355](https://github.com/Rutuj99/Leave-Management-App---Power-Apps/assets/55624994/97037539-da67-4309-9255-593add5ad195)
